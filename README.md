@@ -1,6 +1,6 @@
 # OpenClaw Agent System
 
-> 🚧 **WIP** — This project is under active development as part of the MiMo Token application.
+> 🚧 **WIP** — This project is under active development.
 
 A lightweight multi-agent orchestration framework built around five specialized agents: **Scout**, **Analyst**, **Guard**, **Executor**, and **Coordinator**. A sixth module, **Hermes**, serves as the decision and policy engine.
 
@@ -142,7 +142,7 @@ print(result.policy_id)  # "beta_feature"
 ## Project Structure
 
 ```
-mimo-project/
+openclaw-agent-system/
 ├── multi_agent/           # Agent implementations
 │   ├── scout.py           # Scout agent
 │   ├── analyst.py         # Analyst agent
@@ -234,4 +234,4 @@ Full dependency list: see `requirements.txt`
 
 ## License
 
-Internal — MiMo Token Application Project
+MIT License
