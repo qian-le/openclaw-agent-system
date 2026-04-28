@@ -1,7 +1,7 @@
 """
 Coordinator Agent — Task Orchestration
 
-WIP: This module is part of the MiMo Token application project.
+WIP: This module is part of the OpenClaw Agent System project.
 Coordinator manages the full agent pipeline, routing tasks through
 Scout -> Analyst -> Guard -> Executor, and aggregating results.
 """

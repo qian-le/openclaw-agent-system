@@ -1,7 +1,7 @@
 """
 Scout Agent — Information Gathering & Investigation
 
-WIP: This module is part of the MiMo Token application project.
+WIP: This module is part of the OpenClaw Agent System project.
 Scout is responsible for gathering information, searching context, and
 collecting facts needed for task analysis.
 """

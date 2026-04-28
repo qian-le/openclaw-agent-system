@@ -1,7 +1,7 @@
 """
 Guard Agent — Safety Gate & Risk Review
 
-WIP: This module is part of the MiMo Token application project.
+WIP: This module is part of the OpenClaw Agent System project.
 Guard acts as the mandatory safety gate before any execution,
 reviewing requests for risk, safety, and authorization.
 """

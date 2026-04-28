@@ -1,7 +1,7 @@
 """
 Executor Agent — Action Execution
 
-WIP: This module is part of the MiMo Token application project.
+WIP: This module is part of the OpenClaw Agent System project.
 Executor performs the actual work: file operations, shell commands,
 browser automation, and other runtime actions.
 """

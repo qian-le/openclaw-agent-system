@@ -1,7 +1,7 @@
 """
 Hermes — Decision & Policy Engine
 
-WIP: This module is part of the MiMo Token application project.
+WIP: This module is part of the OpenClaw Agent System project.
 Hermes serves as the central decision-making module, providing
 policy evaluation, routing logic, and reasoning orchestration.
 """

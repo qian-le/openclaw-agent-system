@@ -4,7 +4,7 @@
 
 The MiMo Multi-Agent System is an orchestration framework built around five specialized agents: **Scout**, **Analyst**, **Guard**, **Executor**, and **Coordinator**. A sixth module, **Hermes**, serves as the decision and policy engine embedded within the Coordinator.
 
-This is a **WIP project** under the MiMo Token application initiative.
+This is a **WIP project** under the OpenClaw Agent System initiative.
 
 ---
 

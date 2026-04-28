@@ -1,7 +1,7 @@
 """
 Hermes Decision Engine — Policy Evaluation & Reasoning
 
-WIP: This module is part of the MiMo Token application project.
+WIP: This module is part of the OpenClaw Agent System project.
 
 Hermes is designed to be the policy engine and reasoning core of the
 multi-agent system. It evaluates decisions, applies rules, and

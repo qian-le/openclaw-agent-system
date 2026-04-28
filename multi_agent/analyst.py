@@ -1,7 +1,7 @@
 """
 Analyst Agent — Analysis & Decision Support
 
-WIP: This module is part of the MiMo Token application project.
+WIP: This module is part of the OpenClaw Agent System project.
 Analyst consumes Scout's findings and produces structured analysis,
 comparisons, risk assessments, and recommendations.
 """
