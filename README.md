@@ -205,7 +205,7 @@ print(response)
 
 ## ⭐ MiMo Integration Plan
 
-This project exists as part of the MiMo Token application. Planned integrations:
+This project is designed to integrate MiMo as a reasoning engine for multi-agent workflows. Planned integrations:
 
 ### 1. Hermes as MiMo Policy Core
 Use MiMo as the reasoning engine behind Hermes decision evaluation — replacing rule-based matching with semantic policy understanding.
